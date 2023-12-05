@@ -1,0 +1,40 @@
+{"courses": [{
+  "name": "Introduction to Computing",
+  "code": "CSCI 1109",
+  "Instructor": "Eric Brisart",
+  "Prerequisites": "None",
+  "Credits": 3
+
+},
+{
+  "name": "Introduction to C Programming",
+  "code": "CSCI 1110",
+  "Instructor": "Joubert Aurelien",
+  "Prerequisites": "CSCI 1109",
+  "Credits": 3
+
+},
+{
+  "name": "Operating Systems",
+  "code": "CSCI 1166",
+  "Instructor": "Greg R Sheehan",
+  "Prerequisites": "CSCI 1109",
+  "Credits": 3
+
+},
+{
+  "name": "Intermediate Game Development",
+  "code": "CSCI 2210",
+  "Instructor": "George Pillar",
+  "Prerequisites": "CSCI 1109, CSCI 1110",
+  "Credits": 3
+
+},
+{
+  "name": "Software Quality Assurance",
+  "code": "CSCI 2212",
+  "Instructor": "Christopher J Martinez",
+  "Prerequisites": "CSCI 2069",
+  "Credits": 3
+
+}]}
